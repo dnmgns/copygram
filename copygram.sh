@@ -2,10 +2,10 @@
 
 #title           :copygram.sh
 #description     :This script will backup photos from http://instagr.am
-#author		 	 :Magnus Janson <magnus@copygr.am>
+#author          :Magnus Janson <magnus@copygr.am>
 #date            :20110205
 #version         :0.4
-#usage		 	 :bash copygram.sh <username> <email> <options> <ip> <make-zip> <future-news> <user_id> <user_token>
+#usage           :bash copygram.sh <username> <email> <options> <ip> <make-zip> <future-news> <user_id> <user_token>
 
 clear
 
